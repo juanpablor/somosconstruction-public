@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktemplate=self.webpackChunktemplate||[]).push([[661],{7673:function(e,t,a){a.r(t);var l=a(6540),n=a(792),r=a(4755),u=a(8526);t.default=()=>{const{t:e}=(0,r.useTranslation)(),t=u;return l.createElement(n.A,{data:t},l.createElement("h1",null,e("readyToStart.title")),l.createElement("p",null,e("readyToStart.description")))}}}]);
+//# sourceMappingURL=component---src-pages-ready-to-start-tsx-d63cb290df756d20ccfd.js.map
