@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunktemplate=self.webpackChunktemplate||[]).push([[789],{2761:function(e,t,l){l.r(t);var n=l(6540),a=l(2275),r=l(4755),c=l(8526);t.default=()=>{const{t:e}=(0,r.useTranslation)(),t=c;return n.createElement(a.A,{data:t},n.createElement("h1",null,e("projects.title")),n.createElement("p",null,e("projects.description")))}}}]);
-//# sourceMappingURL=component---src-pages-projects-tsx-a2986b77e59b068bae0b.js.map
